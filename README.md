@@ -115,28 +115,8 @@ Start aplikacji:
 streamlit run app.py
 ```
 
-## Deployment na Streamlit Community Cloud
-
-1. Utwórz publiczne repozytorium na GitHubie, np. `nocny-termometr-polski`.
-2. Wgraj do repozytorium pliki z tego folderu:
-   - `app.py`,
-   - `requirements.txt`,
-   - `README.md`,
-   - `.streamlit/config.toml`,
-   - `.gitignore`.
-3. Wejdź na https://share.streamlit.io/ i zaloguj się przez GitHub.
-4. Kliknij **Create app** / **New app**.
-5. Wybierz repozytorium, branch `main` i plik startowy `app.py`.
-6. Kliknij **Deploy**.
-7. Po wdrożeniu skopiuj publiczny link `https://...streamlit.app` i wklej go w Moodle.
-
-## Co wpisać w README po wdrożeniu
-
-Po wdrożeniu możesz dopisać na górze README:
-
 ```md
-Działająca aplikacja: https://twoj-link.streamlit.app
-Repozytorium GitHub: https://github.com/twoj-login/nocny-termometr-polski
+Działająca aplikacja: 
 ```
 
 ## Ograniczenia
@@ -147,4 +127,4 @@ Repozytorium GitHub: https://github.com/twoj-login/nocny-termometr-polski
 
 ## Autor
 
-Wpisz swoje imię i nazwisko przed oddaniem projektu.
+Jakub Woźniak
