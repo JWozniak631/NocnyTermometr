@@ -116,7 +116,7 @@ streamlit run app.py
 ```
 
 ```md
-Działająca aplikacja: 
+Działająca aplikacja: https://nocnytermometrgit-g2afdnjuzyc5l2qyoofnah.streamlit.app/
 ```
 
 ## Ograniczenia
